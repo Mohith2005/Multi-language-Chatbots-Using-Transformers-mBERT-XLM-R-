@@ -1,7 +1,7 @@
 # Multi-language-Chatbots-Using-Transformers-mBERT-XLM-R-
 This project demonstrates a **Multilingual Chatbot** capable of understanding user input in multiple languages (English, Spanish, French) and responding with context-aware answers. The project addresses the challenge of global customer engagement by using transformer models (mBERT/XLM-R) when available, or rule-based intent detection as a fallback.
 
-****Objective:**
+**Objective:**
 - Build a chatbot that can detect language, classify user intent (greeting, order status, fallback), and generate responses in the same language.
 - Showcase how multilingual conversational AI can scale global support while maintaining natural communication.
 
